@@ -9,8 +9,15 @@
         <relativePath>../timwang-basic-parent/pom.xml</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
-
+    <packaging>jar</packaging>
     <artifactId>timwang-basic-reflection</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.timwang</groupId>
+            <artifactId>timwang-util-core</artifactId>
+            <version>${timwang.util.version}</version>
+        </dependency>
+    </dependencies>
 </project>
 
