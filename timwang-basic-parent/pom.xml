@@ -12,7 +12,7 @@
 
     <name>timwang java basic parent</name>
     <artifactId>timwang-basic-parent</artifactId>
-    <version>${revision}</version>
+    <version>1.4.35</version>
     <packaging>pom</packaging>
 
     <modules>
@@ -23,7 +23,6 @@
     </modules>
 
     <properties>
-        <revision>1.4.35</revision>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 

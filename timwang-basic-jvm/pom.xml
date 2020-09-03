@@ -5,7 +5,7 @@
     <parent>
         <artifactId>timwang-basic-parent</artifactId>
         <groupId>com.timwang</groupId>
-        <version>${revision}</version>
+        <version>1.4.35</version>
         <relativePath>../timwang-basic-parent/pom.xml</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
